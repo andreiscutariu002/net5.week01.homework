@@ -6,9 +6,9 @@
     {
         public static void Run()
         {
-            //ConvertCinF();
+            ConvertCinF();
 
-            //ConvertFinC();
+            ConvertFinC();
 
             NumberOfDays();
         }
